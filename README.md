@@ -1,2 +1,2 @@
-# digital_ocean.tf
+# digital_ocean
 digital ocean droplet
